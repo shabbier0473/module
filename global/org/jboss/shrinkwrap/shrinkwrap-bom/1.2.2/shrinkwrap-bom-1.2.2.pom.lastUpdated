@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 13:42:44 UTC 2020
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact org.jboss.shrinkwrap\:shrinkwrap-bom\:pom\:1.2.2 from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: Authorization failed for http\://repo.spring.io/ext-release-local/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom 403 Forbidden
+https\://repo.maven.apache.org/maven2/.lastUpdated=1586180564785
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1586180564263
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.jboss.shrinkwrap\:shrinkwrap-bom\:pom\:1.2.2 from/to spring-milestones (http\://repo.spring.io/milestone)\: Authorization failed for http\://repo.spring.io/milestone/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom 403 Forbidden
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1586180564548
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1586180563974
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.jboss.shrinkwrap\:shrinkwrap-bom\:pom\:1.2.2 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: Authorization failed for http\://repo.spring.io/snapshot/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom 403 Forbidden
